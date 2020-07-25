@@ -3,23 +3,14 @@
     {
       "port": 80,
       "protocol": "vmess",
-
       "settings": {
-
         "clients": [
-
           {
-
-          "id": "8195adc7-221d-4390-a9b2-d7642e44e46d",  //这里要换成刚才让你记下的ID
-
+          "id": "8195adc7-221d-4390-a9b2-d7642e44e46d",
           "level": 1,
-
-          "alterId": 64   //这里也要用安装生成的alterId
-
+          "alterId": 64
           }
-
         ]
-
       },
       "streamSettings": {
         "network":"ws"
