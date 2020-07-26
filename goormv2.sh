@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/csh
 apt-get -y update
 apt-get install -y screen
 rm -rf /v2ray
